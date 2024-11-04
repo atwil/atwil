@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG1MF5Y6VwsxyRgmi6u_e-Eb2mz6LpveX58g&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG1MF5Y6VwsxyRgmi6u_e-Eb2mz6LpveX58g&s" width="800" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Befikadu</h1>
 <h3 align="center">A passionate Full stack developer from Ethiopia</h3>
 <img align="hey" alt="hey" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171867_X85WpWCcMzNsoMWtMxiZQspKzaOwCyuK.jpg">
