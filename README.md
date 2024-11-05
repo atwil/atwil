@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Full stack developer from Ethiopia</h3>
 <img align="hey" alt="hey" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171867_X85WpWCcMzNsoMWtMxiZQspKzaOwCyuK.jpg">
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning React native
 
-- 💬 Ask me about **Laravel, React**
+- 💬 Ask me about Laravel, React
 
-- 📫 How to reach me **befikadut179@gmail.com**
+- 📫 How to reach me befikadut179@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
