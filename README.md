@@ -23,6 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atwil&show_icons=true&locale=en&layout=compact" alt="atwil" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atwil&show_icons=true&locale=en" alt="atwil" /></p>
 <p align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AbayTesfaye&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=atwil&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </p>
 
