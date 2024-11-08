@@ -3,6 +3,11 @@
 <h3 align="center">A passionate Full stack developer from Ethiopia</h3>
 <img align="hey" alt="hey" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171867_X85WpWCcMzNsoMWtMxiZQspKzaOwCyuK.jpg">
 
+<p align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=atwil&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</p>
+
+
 - 🌱 I’m currently learning React native
 
 - 💬 Ask me about Laravel, React
@@ -22,7 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atwil&show_icons=true&locale=en&layout=compact" alt="atwil" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atwil&show_icons=true&locale=en" alt="atwil" /></p>
-<p align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=atwil&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</p>
 
