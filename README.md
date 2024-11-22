@@ -8,7 +8,6 @@
 </p>
 
 - 🌱 I’m currently learning React native
-
 - 💬 Ask me about Laravel, React
 
 - 📫 How to reach me befikadut179@gmail.com
